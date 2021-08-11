@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1012028628373",
+    "project_id": "sociallogin-c698e",
+    "storage_bucket": "sociallogin-c698e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012028628373:android:dd442f5de2598b3a1e6a9c",
+        "android_client_info": {
+          "package_name": "com.socialdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012028628373-r64d5mfnh0bebligsg64jn6rnafcfvgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoV84dgvVZeyHONKqQmI2Wx865BZHLf_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012028628373-r64d5mfnh0bebligsg64jn6rnafcfvgg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012028628373-g5io7npals3im64msi3vj84m9forampk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SocialDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
