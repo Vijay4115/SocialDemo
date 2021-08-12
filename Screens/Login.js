@@ -90,8 +90,8 @@ class Login extends Component{
   
   
     API_KEY ={
-    TWITTER_API_KEY : '9bQgPfkWGMh0V9XwtSeKnTYba',
-    TWITTER_SECRET_KEY :'JsJUod9LjDg0SwiYAjFV5qbyyHmbcjOZLGjBynr07wQ52kuEsH',
+    TWITTER_API_KEY : '9bWGMh0KnTYba',
+    TWITTER_SECRET_KEY :'JsJUod9LjDnr07wQ52kuEsH',
     }
   
     twitterLogin = () =>{
