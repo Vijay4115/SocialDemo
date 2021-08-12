@@ -3,13 +3,13 @@ require('@react-native-firebase/firestore')
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAdQ87KmV4l9KjyOVJpp22-gC9FaDjPiwo",
-    authDomain: "sociallogin-c698e.firebaseapp.com",
-    projectId: "sociallogin-c698e",
-    storageBucket: "sociallogin-c698e.appspot.com",
-    messagingSenderId: "1012028628373",
-    appId: "1:1012028628373:web:308d955a64d327ee1e6a9c",
-    measurementId: "G-GP6MKVWWTR"
+    apiKey: "AIzaSxxxxxxxxxl9KjyOVJpp22-gC9FaDjPiwo",
+    authDomain: "sociaxxxxx98e.firebaseapp.com",
+    projectId: "socixxxxxin-c698e",
+    storageBucket: "socialxxxxxxe.appspot.com",
+    messagingSenderId: "1012xxxxx8373",
+    appId: "1:10120xxxxxxweb:308d955a64d327ee1e6a9c",
+    measurementId: "G-GxxxxxxxVWWTR"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig)
